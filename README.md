@@ -21,14 +21,14 @@ to keep it closed source or not, and so the source is private.
 </details>        
 
 ## Credits:
-Client Devs: Wolfsurge / Mathew101Q
+Client Devs: Wolfsurge / Mathew101Q / master7720
 
 
 Project starters: Fyre - SoldierMC
   
 Texture Pack Editor: Fyre 
   
-Beta Tester/Helpers: HAV0X - SoldierMC - IdentifyDelay - NGILDQS - Fyre - Mathew101Q - Wolfsurge - q3m
+Beta Tester/Helpers: HAV0X - SoldierMC - IdentifyDelay - NGILDQS - Fyre - Mathew101Q - Wolfsurge - q3m - master7720
   
 "Some modules are partially skidded, but not fully. We plan to remove this soon"
 
