@@ -1,4 +1,4 @@
-![xenotheme](https://cdn.discordapp.com/attachments/901443220389646369/917855640704143380/text-1638904225098.png)
+![xenologo](https://cdn.discordapp.com/attachments/901443220389646369/917855640704143380/text-1638904225098.png)
 
 [![GitHub All Releases](https://img.shields.io/github/downloads/XenoClientDevelopment/Xeno-Client/total.svg)](https://github.com/XenoClientDevelopment/Xeno-Client/releases/)
 
@@ -22,7 +22,6 @@ to keep it closed source or not, and so the source is private.
 
 ## Credits:
 Client Devs: Wolfsurge / Mathew101Q / master7720
-
 
 Project starters: Fyre - SoldierMC
   
@@ -116,8 +115,10 @@ If you need help with anything in the client, click [here](https://discord.gg/YP
 </details>
 
 ## ClickGUI
+<details>
 The GUI has 3 themes. Xeno (default), Plain, and Future. This can be changed through the ClickGUI module's settings.
 ![xenotheme](https://github.com/XenoClientDevelopment/Xeno-Resources/blob/main/xenotheme.png?raw=true)
+</details>
 
 ## Features
 <details>
