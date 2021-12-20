@@ -115,10 +115,8 @@ If you need help with anything in the client, click [here](https://discord.gg/YP
 </details>
 
 ## ClickGUI
-<details>
 The GUI has 3 themes. Xeno (default), Plain, and Future. This can be changed through the ClickGUI module's settings.
 ![xenotheme](https://github.com/XenoClientDevelopment/Xeno-Resources/blob/main/xenotheme.png?raw=true)
-</details>
 
 ## Features
 <details>
