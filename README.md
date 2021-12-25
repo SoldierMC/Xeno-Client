@@ -33,15 +33,13 @@ Beta Tester/Helpers: HAV0X - SoldierMC - IdentifyDelay - NGILDQS - Fyre - Mathew
 
 <details>
   <summary>Misc Credits</summary>
+
     - WP3 - CA Utils and Colour Picker Base
-	
-	
-	
-	
     - linustouchtips - Misc Rendering
     - SpongePowered - Mixins
     - ZeroMemes - Alpine Event System
     - srgantmoomoo - AutoEZ stuff
+
 </details>
 
 ## Discord:
