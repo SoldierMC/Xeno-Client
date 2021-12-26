@@ -45,6 +45,9 @@ Beta Tester/Helpers: HAV0X - SoldierMC - IdentifyDelay - NGILDQS - Fyre - Mathew
 ## Discord:
 If you need help with anything in the client, click [here](https://discord.gg/YPeVBdZMQA) to join the discord.
 
+## 𝓓𝓞𝓝𝓐𝓣𝓔
+Pls Donate need upgrades in the client and website, click [𝓓𝓞𝓝𝓐𝓣𝓔](https://paypal.me/XenoDev?country.x=PH&locale.x=en_US) PLSSS
+
 ## Latest Release Notes
 
 <details>
