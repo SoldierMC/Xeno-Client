@@ -8,11 +8,11 @@ I would use this as a secondary client, and use it especially for its render mod
 It is currently the only client I (Wolfsurge) could find with an Outline StorageESP, apart from Future (and my old client).
 It's fairly new, so the download counter is low (but it is safe!)
 
-## Installation
+## 𝓘𝓷𝓼𝓽𝓪𝓵𝓵𝓪𝓽𝓲𝓸𝓷
 Download the pre-compiled jar from the releases tab. It is safe, but if you don't trust us, just don't use the client. The dev team was arguing about whether
 to keep it closed source or not, and so the source is private.
 
-## Usage:
+## 𝓤𝓼𝓪𝓰𝓮:
 <details>
   <summary>Click to expand!</summary>  
  - Download the .jar file from releases
@@ -20,7 +20,7 @@ to keep it closed source or not, and so the source is private.
  - Press RSHIFT to open the ClickGUI
 </details>        
 
-## Credits:
+## 𝓒𝓻𝓮𝓭𝓲𝓽𝓼:
 Client Devs: Wolfsurge / Mathew101Q / master7720 / DavidMan
 
 Project starters: Fyre - SoldierMC
@@ -42,18 +42,18 @@ Beta Tester/Helpers: HAV0X - SoldierMC - IdentifyDelay - NGILDQS - Fyre - Mathew
 
 </details>
 
-## Discord:
+## 𝓓𝓲𝓼𝓬𝓸𝓻𝓭:
 If you need help with anything in the client, click [here](https://discord.gg/YPeVBdZMQA) to join the discord.
 
 ## 𝓓𝓞𝓝𝓐𝓣𝓔
 Pls Donate need upgrades in the client and website, pls [𝓓𝓞𝓝𝓐𝓣𝓔](https://paypal.me/XenoDev?country.x=PH&locale.x=en_US) here
 
-## Latest Release Notes
+## 𝓛𝓪𝓽𝓮𝓼𝓽 𝓡𝓮𝓵𝓮𝓪𝓼𝓮 𝓝𝓸𝓽𝓮𝓼
 
 <details>
     <summary>Click to expand!</summary>
 
-## Modules Added
+## 𝓜𝓸𝓭𝓾𝓵𝓮𝓼 𝓐𝓭𝓭𝓮𝓭
 <details>
   <summary>Click to expand!</summary>
 
@@ -89,7 +89,7 @@ Pls Donate need upgrades in the client and website, pls [𝓓𝓞𝓝𝓐𝓣�
     
 </details>
 
-## Modules Updated
+## 𝓜𝓸𝓭𝓾𝓵𝓮𝓼 𝓤𝓹𝓭𝓪𝓽𝓮𝓭
 <details>
   <summary>Click to expand!</summary>
   
@@ -112,7 +112,7 @@ Pls Donate need upgrades in the client and website, pls [𝓓𝓞𝓝𝓐𝓣�
     - Added a new mode, and fixed a bug.
 </details>
 
-## Other Changes / Bug Fixes
+## 𝓞𝓽𝓱𝓮𝓻 𝓒𝓱𝓪𝓷𝓰𝓮𝓼 / 𝓑𝓾𝓰 𝓕𝓲𝔁𝓮𝓼
 <details>
   <summary>Click to expand!</summary>
 
@@ -128,11 +128,11 @@ Pls Donate need upgrades in the client and website, pls [𝓓𝓞𝓝𝓐𝓣�
 </details>
 </details>
 
-## ClickGUI
+## 𝓒𝓵𝓲𝓬𝓴𝓖𝓤𝓘
 The GUI has 3 themes. Xeno (default), Plain, and Future. This can be changed through the ClickGUI module's settings.
 ![xenotheme](https://github.com/XenoClientDevelopment/Xeno-Resources/blob/main/xenotheme.png?raw=true)
 
-## Features
+## 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼
 <details>
   <summary>Click to expand!</summary>
 
@@ -145,7 +145,7 @@ The GUI has 3 themes. Xeno (default), Plain, and Future. This can be changed thr
 
 </details>
 
-## Modules
+## 𝓜𝓸𝓭𝓾𝓵𝓮𝓼
 <details>
   <summary>Click to expand!</summary>
   
@@ -211,7 +211,7 @@ The GUI has 3 themes. Xeno (default), Plain, and Future. This can be changed thr
   
 </details>
 
-## Commands
+## 𝓒𝓸𝓶𝓶𝓪𝓷𝓭𝓼
 <details>
   <summary>Click to expand!</summary>
   
